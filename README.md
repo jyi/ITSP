@@ -96,12 +96,12 @@ Basically, GenProg/AE can be installed in the following two steps.
 2. Building GenProg/AE
 
 ```
-  > cd genprog-source-v3.0
-  > tar zxvf cil-1.3.7.tar.gz
-  > cd cil-1.3.7
-  > ./configure && make && make cillib
-  > cd ../src
-  > make
+> cd genprog-source-v3.0
+> tar zxvf cil-1.3.7.tar.gz
+> cd cil-1.3.7
+> ./configure && make && make cillib
+> cd ../src
+> make
 ```    
 
 ### Installing Modified Prophet ###
@@ -115,10 +115,10 @@ Basically, Prophet can be installed in the following two steps.
 2. Building Prophet
 
 ```
-  > cd prophet-gpl
-  > aclocal && autoconf && autoreconf --install && automake
-  > ./configure
-  > make clean && make
+> cd prophet-gpl
+> aclocal && autoconf && autoreconf --install && automake
+> ./configure
+> make clean && make
 ```
 
 ### Installing Angelix ###
@@ -133,11 +133,11 @@ The ITSP bash scripts use the following two external programs.
 
 
 ```
-  # To install prallel
-  > wget https://ftp.gnu.org/gnu/parallel/parallel-20161122.tar.bz2
-  > bzip2 -dc parallel-20161122.tar.bz2 | tar xvf -
-  > cd parallel-20161122
-  > ./configure && make && make install
+# To install prallel
+> wget https://ftp.gnu.org/gnu/parallel/parallel-20161122.tar.bz2
+> bzip2 -dc parallel-20161122.tar.bz2 | tar xvf -
+> cd parallel-20161122
+> ./configure && make && make install
 ```
 
 2. indent
