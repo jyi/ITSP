@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PROPHET_TMP="$(pwd)/.prophet_tmp"
+rm -rf ${PROPHET_TMP} && mkdir -p ${PROPHET_TMP}
+prophet "$@"

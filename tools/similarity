@@ -1,0 +1,8 @@
+if ! [[ -e $1 && -e $2 ]]; then
+   echo "0"
+   exit
+fi
+
+file1=$(readlink -e $1)
+file2=$(readlink -e $2)
+timeout 10s java -cp ${SIMILARITY_JAR} info.debatty.java.stringsimilarity.Main ${file1} ${file2} || echo "0"
