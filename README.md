@@ -275,6 +275,11 @@ Our experimental results are available in [experiment/cache](https://github.com/
 
 Meanwhile, [experiment/cache/analysis/analysis.R](https://github.com/jyi/ITSP/tree/master/experiment/cache/analysis/analysis.R) can be used to reproduce the results in our [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf).
 
+```
+> Rscript analysis.R
+```    
+
+
 ***
 
 ## User Study Materials ##
