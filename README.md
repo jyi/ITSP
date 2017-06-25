@@ -127,9 +127,25 @@ ITSP uses the original Angelix, since Angelix already has functionalities our ne
 
 ### Other Prerequisites ###
 
+The ITSP bash scripts use the following two external programs.
+
 1. parallel
 
+
+```
+  # To install prallel
+  > wget https://ftp.gnu.org/gnu/parallel/parallel-20161122.tar.bz2
+  > bzip2 -dc parallel-20161122.tar.bz2 | tar xvf -
+  > cd parallel-20161122
+  > ./configure && make && make install
+```
+
 2. indent
+
+```
+   # To install indent
+   apt-get -y install indent
+```
 
 ***
 
