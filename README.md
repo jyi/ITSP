@@ -127,7 +127,7 @@ ITSP uses the original Angelix, since Angelix already has functionalities our ne
 
 ### Other Prerequisites ###
 
-The ITSP bash scripts use the following two external programs.
+Our ITSP bash scripts use the following two external programs.
 
 1. parallel
 
