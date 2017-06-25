@@ -22,7 +22,8 @@ These modified APR tools can be installed in the same way as the original tools.
 
     docker pull jayyi/itsp:0.0
 
-**N.B.** The size of the image is quite large (> 30GB), due to the huge size of the APR tools.
+**N.B.** The size of the image is quite large (> 30 GB), due to the huge size of the APR tools.
+**N.B.** A more lightweight Docker image, jayyi/itsp-no-angelix:0.0, is also available. As the name indicates, this image does not contain Angelix, one of APR tools ITSP can support. The size of this lightweight image is about 3 GB.
 
 The downloaded docker image can be launched in the standard way:
 
@@ -81,7 +82,7 @@ Regarding how to read generated output, see [Toolchain](https://github.com/jyi/I
 
 ## Local Installation ##
 
-The size of the Docker image is quite large (> 30GB), which may cause difficulty in downloading and installing the image. This large size is due to that our toolchain, ITSP, is built on top of multiple APR tools whose sizes dominate the size of our Docker image. Nonetheless, we distribute a Docker image, hoping that the image can facilitate other scientific experiments involving state-of-the-art APR tools. However, in case the reader is more interested in quickly trying ITSP without using all the APR tools supported by ITSP, local installation described in this section can be an alternative option.
+The size of the Docker image is quite large (> 30 GB), which may cause difficulty in downloading and installing the image. This large size is due to that our toolchain, ITSP, is built on top of multiple APR tools whose sizes dominate the size of our Docker image. Nonetheless, we distribute a Docker image, hoping that the image can facilitate other scientific experiments involving state-of-the-art APR tools. However, in case the reader is more interested in quickly trying ITSP without using all the APR tools supported by ITSP, local installation described in this section can be an alternative option.
 
 ITSP is implemented as bash scripts, and hence readily applicable, provided its [prerequisites](#other-prerequisites) are installed. ITSP currently can invoke the following four APR tools: GenProg, AE, Prophet, and Angelix, provided that they are installed. Meanwhile, uninstalled APR tools will be ignored by ITSP.
 
