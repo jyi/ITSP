@@ -281,10 +281,10 @@ Meanwhile, [experiment/cache/analysis/analysis.R](https://github.com/jyi/ITSP/tr
 
 The folllowing is the description of the resulting files.
 
-   * result-base.tex: Table 2 of [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
-   * compare-pos-neg.pdf: Figure 1 of [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
-   * result-main.tex: Table 3 of [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
-   * compare-complete-partial.pdf: Figure 2 of [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
+   * result-base.tex: Table 2 of the [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
+   * compare-pos-neg.pdf: Figure 1 of the [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
+   * result-main.tex: Table 3 of the [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
+   * compare-complete-partial.pdf: Figure 2 of the [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf)
    
 ***
 
