@@ -279,7 +279,13 @@ Meanwhile, [experiment/cache/analysis/analysis.R](https://github.com/jyi/ITSP/tr
 > Rscript analysis.R
 ```    
 
+The folllowing is the description of the resulting files.
 
+   * result-base.tex:
+   * compare-pos-neg.pdf:
+   * result-main.tex:
+   * compare-complete-partial.pdf:
+   
 ***
 
 ## User Study Materials ##
