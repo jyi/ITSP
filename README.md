@@ -143,8 +143,8 @@ The ITSP bash scripts use the following two external programs.
 2. indent
 
 ```
-   # To install indent
-   apt-get -y install indent
+# To install indent
+apt-get -y install indent
 ```
 
 ***
