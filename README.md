@@ -273,6 +273,8 @@ Our experimental results are available in [experiment/cache](https://github.com/
    
 **N.B.** Some APR tools have randomness in their repair process. Also, parallel use of multiple repair tools introduces one more layer of randomness (there is no guarantee that one repair tool always finds a repair faster than the other tools). Different results may be produced at each experiment, because of this randomness. 
 
+Meanwhile, [experiment/cache/analysis/analysis.R](https://github.com/jyi/ITSP/tree/master/experiment/cache/analysis/analysis.R) can be used to reproduce the results in our [ESEC/FSE-17 paper](http://jooyongyi.com/papers/Yi-ESEC-FSE17.pdf).
+
 ***
 
 ## User Study Materials ##
