@@ -271,7 +271,7 @@ Our experimental results are available in [experiment/cache](https://github.com/
    1. result-base: our experimental result from base.sh
    2. result-inc-repair:  our experimental result from inc-repair.sh
    
-N.B. Some APR tools have randomness in their repair process. Also, parallel use of multiple repair tools introduces one more layer of randomness (there is no guarantee that one repair tool always finds a repair faster than the other tools). Different results may be produced at each experiment, because of this randomness. 
+**N.B.** Some APR tools have randomness in their repair process. Also, parallel use of multiple repair tools introduces one more layer of randomness (there is no guarantee that one repair tool always finds a repair faster than the other tools). Different results may be produced at each experiment, because of this randomness. 
 
 ***
 
