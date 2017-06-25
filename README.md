@@ -23,6 +23,7 @@ These modified APR tools can be installed in the same way as the original tools.
     docker pull jayyi/itsp:0.0
 
 **N.B.** The size of the image is quite large (> 30 GB), due to the huge size of the APR tools.
+
 **N.B.** A more lightweight Docker image, jayyi/itsp-no-angelix:0.0, is also available. As the name indicates, this image does not contain Angelix, one of APR tools ITSP can support. The size of this lightweight image is about 3 GB.
 
 The downloaded docker image can be launched in the standard way:
