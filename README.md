@@ -3,7 +3,7 @@
 ## URL: [https://github.com/jyi/ITSP](https://github.com/jyi/ITSP) ##
 
 ## Contributors ##
-   * Jooyong Yi (j.yi@innopolis.ru), Innopolis University
+   * Jooyong Yi (j.yi@innopolis.ru), Innopolis University (now at [UNIST](https://www.unist.ac.kr/))
    * Umair Z. Ahmed (umair@cse.iitk.ac.in), Indian Institute of Technology Kanpur
    * Amey Karkare (karkare@cse.iitk.ac.in), Indian Institute of Technology Kanpur
    * Shin Hwei Tan (shinhwei@comp.nus.edu.sg), National University of Singapore
